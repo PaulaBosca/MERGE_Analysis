@@ -1,0 +1,5 @@
+*.csv
+*.png
+*.jpg
+*.xlsx
+env_merge/*
