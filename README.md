@@ -1,18 +1,17 @@
-## Data Analysis for MERGE 
-Written by Paula Bosca 
-
-
+# Data Analysis for the McMaster Experimental Reduced Gravity Team
+The analysis herein was written by Paula Bosca. 
 
 **TO DO**
 - Clip data appropraitely so time spent above XX isn't awful and horrible unscientific. 
 	- Rerun stats. 
-
 
 *Backlog*
 - Load cells? 
 - Acc data??
 
 
+
+## Repo Structure 
 **Note that since the folder restructing, some of the older notebooks may have data paths that are no longer accurate. Sorry.**
 
 ### /Data
