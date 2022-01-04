@@ -1,11 +1,13 @@
-# Data Analysis for the McMaster Experimental Reduced Gravity Team
-The analysis herein was written by Paula Bosca. 
+# Data Analysis for the MERGE
+This repo holds the data analysis for the McMaster Experimental Reduced Gravity Team.
+The analysis was written and performed by Paula Bosca
 
-**TO DO**
+## TO DO
 - Clip data appropraitely so time spent above XX isn't awful and horrible unscientific. 
 	- Rerun stats. 
 
 *Backlog*
+- Update README
 - Load cells? 
 - Acc data??
 
